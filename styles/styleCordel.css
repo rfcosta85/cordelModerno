@@ -73,14 +73,14 @@ header
 
     section#two
     {
-        background-image: url('../images/backgroundCordel001.jpg');
+        background-image: url('../img/background001.jpg');
         background-repeat: no-repeat;
         background-position: right center;
         background-size: cover;
         background-attachment: fixed;
     }
 
-    p#two
+    p.two
     {
 
         color: white;
@@ -94,14 +94,14 @@ header
 
     section#four
     {
-        background-image: url('../images/backgroundCordel002.jpg');
+        background-image: url('/MeusTestes/cordelModerno/img/background002.jpg');
         background-repeat: no-repeat;
         background-position: right center;
         background-size: cover;
         background-attachment: fixed;
     }
 
-    p#four
+    p.four
     {
 
         color: white;
