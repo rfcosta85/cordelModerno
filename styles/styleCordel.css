@@ -231,7 +231,7 @@ header
         background-attachment: fixed;
     }
 
-    p#two
+    p.two
     {
 
         color: white;
@@ -252,7 +252,7 @@ header
         background-attachment: fixed;
     }
 
-    p#four
+    p.four
     {
 
         color: white;
