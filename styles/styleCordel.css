@@ -15,7 +15,7 @@ header
         padding-top: 3%;
         padding-bottom: 1.5%;
         margin-left: -8px;
-        margin-right: 80px;       
+        margin-right: 10px;       
         
     }
 
@@ -35,7 +35,7 @@ header
     {
         
         font-family: 'Passion One', cursive;
-        font-size: 36px;
+        font-size: 46px;
         
 
     }
@@ -47,7 +47,7 @@ header
         color: white;
         font-family: verdana, sans-serif;
         font-weight: bold;
-        font-size: 10px;
+        font-size: 15px;
         margin-top: -5px;
         margin-bottom: 25px;
 
@@ -130,7 +130,7 @@ header
         
         background-color: black;
         margin-left: -1px;
-        margin-right: 100px;
+        margin-right: 10px;
         padding-top: 1%;
         padding-bottom: 0.8%;
     }
